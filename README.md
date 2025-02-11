@@ -1,10 +1,10 @@
 ## Hi there 👋 I am Jayasurya
 
-🌱 I’m currently learning Angular
-👯 I’m looking to collaborate on Dotnet projects
-💬 Please let me know, if you need a resource in c# project development
-📫 How to reach me: linked in or mail
-🐧 I like baby penguins, Trees
+🌱 I’m currently learning Angular \n
+👯 I’m looking to collaborate on Dotnet projects \n
+💬 Please let me know, if you need a resource in c# project development \n
+📫 How to reach me: linked in or mail \n
+🐧 I like baby penguins, Trees \n
 <!--
 **Jayasurya-Murugesan/Jayasurya-Murugesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
